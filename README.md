@@ -1,15 +1,7 @@
 ##QSTK
 QuantSoftware Toolkit [![PyPI version](https://badge.fury.io/py/QSTK.png)](http://badge.fury.io/py/QSTK)
 
-Pilot version for Python 3 by [James Lao](https://github.com/jameslao)
-
-Tested under Python v3.3.2 [MSC v.1600 64 bit (AMD64)]
-Numpy is installed and the version used is :  1.7.1
-Pandas is installed and the version used is :  0.12.0
-Scipy is installed and the version used is :  0.12.0
-Dateutil is installed and the version used is :  2.1
-Setuptools is installed and the version used is :  1.0
-
+*Pilot on Python 3*
 
 ##Website & Documentation
 [www.wiki.quantsoftware.org](www.wiki.quantsoftware.org)
@@ -30,6 +22,19 @@ Setuptools is installed and the version used is :  1.0
 - [Prof. Tucker Balch](http://www.cc.gatech.edu/~tucker/)
 - [Sourabh Bajaj](http://sb2nov.github.io)
 - [John Cornwell](https://github.com/JWCornV)
+
+##About this version
+
+This is a pilot version for Python 3 ported by [James Lao](https://github.com/jameslao)
+
+Tested under Python v3.3.2 [MSC v.1600 64 bit (AMD64)]
+
+- Numpy is installed and the version used is :  1.7.1
+- Pandas is installed and the version used is :  0.12.0
+- Scipy is installed and the version used is :  0.12.0
+- Dateutil is installed and the version used is :  2.1
+- Setuptools is installed and the version used is :  1.0
+
 
 ##License
 The QuantSoftware ToolKit (QSTK) is released under the New BSD License as follows:
